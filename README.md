@@ -16,3 +16,8 @@ Title: 병원 온라인 웹사이트
 
 
 2. 메인 페이지 구현
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/53892427/221600563-018648ee-cba8-490a-8562-c70702f8a505.png">
+</p>
+
+@ 정확한 병원 및 세부내용은 리드미에 공유되지 않습니다.
