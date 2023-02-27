@@ -6,7 +6,7 @@
 |오성?씨|오민혁|오소현|
 |:---:|:---:|:---:|
 |기획자, 실세|백엔드|디자인, 프론트엔드|
-|Gastroenterologist|Spring|Vue.js or React.js|
+|Gastroenterologist|Spring|Vue.js|
 
 ***
 
